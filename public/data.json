@@ -1,0 +1,79 @@
+{
+    "membershipOptions": [
+      {
+        "id": 1,
+        "name": "Standard Membership",
+        "description": "Access to basic gym facilities.",
+        "price": 29.99,
+        "duration": "1 month",
+        "features": [
+          "Access to cardio and weightlifting areas",
+          "Locker room access",
+          "24/7 gym access",
+          "No contract commitment",
+          "Free towel service",
+          "Access to group fitness classes"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Premium Membership",
+        "description": "Access to premium gym facilities and classes.",
+        "price": 49.99,
+        "duration": "1 month",
+        "features": [
+          "All Standard Membership features",
+          "Unlimited fitness classes",
+          "Personal training session (1/month)",
+          "Sauna and spa access",
+          "Complimentary smoothie bar",
+          "Guest pass (2/month)"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Family Membership",
+        "description": "Access for a family of up to 4 members.",
+        "price": 99.99,
+        "duration": "1 month",
+        "features": [
+          "Access for up to 4 family members",
+          "Standard Membership features for each member",
+          "Discounted group classes",
+          "Kids' play area access",
+          "Family locker room"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Student Membership",
+        "description": "Discounted membership for students.",
+        "price": 19.99,
+        "duration": "1 month",
+        "features": [
+          "Access to cardio and weightlifting areas",
+          "Locker room access",
+          "Valid student ID required",
+          "No contract commitment",
+          "Access to study area",
+          "Student-only fitness classes"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Annual Membership",
+        "description": "One-year membership with a discounted rate.",
+        "price": 399.99,
+        "duration": "12 months",
+        "features": [
+          "Access to cardio and weightlifting areas",
+          "Locker room access",
+          "12 months of unlimited gym access",
+          "No contract commitment",
+          "Annual fitness assessment",
+          "Discounted personal training"
+        ]
+      }
+    ]
+  }
+  
